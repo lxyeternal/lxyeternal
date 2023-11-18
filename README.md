@@ -14,16 +14,12 @@ I'm a passionate software developer with a keen interest in Java and Python. I l
 
 ### 📅 GitHub Contributions Calendar:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lxyeternal&theme=default)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lxyeternal&theme=default)![Metrics](https://metrics.lecoq.io/lxyeternal?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FChicago)
 
 
 ### 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=lxyeternal&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
-
-### 👀 Visitor Count:
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/lxyeternal/count.svg) visitor. Thank you for stopping by!
 
 
 <!-- Optional Sections -->
@@ -39,13 +35,15 @@ Here are some of my recent projects:
 
 ### 📈 GitHub Contribution Graph:
 
-![Metrics](https://metrics.lecoq.io/lxyeternal?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FChicago)
-
 <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=lxyeternal&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
+
+### 👀 Visitor Count:
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/lxyeternal/count.svg) visitor. Thank you for stopping by!
 
 ---
 
