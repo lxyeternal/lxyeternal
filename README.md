@@ -3,7 +3,7 @@
 <!-- Introduction Section -->
 I'm a passionate software developer with a keen interest in Java and Python. I love exploring new technologies and building cool stuff!
 
-- 🔭 I’m currently working on Software Supply Chain Security.
+- 🔭 I’m currently working on Software Supply Chain Security and Open Source Intelligence.
 - 🌱 I’m currently learning Malicious code analysis, software reverse engineering.
 - 💬 Ask me about anything related to Java, Python, and Machine Learning.
 - ⚡  Read more about my homepage: [here](https://about.honywen.com/).
